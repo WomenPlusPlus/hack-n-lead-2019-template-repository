@@ -61,5 +61,5 @@ Checklist:
 
 Sit back and wait to pitch your project
 
-
+![](https://media.giphy.com/media/4IbpJdUNKn5Ti/giphy.gif)
 

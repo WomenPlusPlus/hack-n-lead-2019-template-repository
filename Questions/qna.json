@@ -1,0 +1,89 @@
+[
+    {
+    "language":"en",
+    "assessment":[
+        {
+            "indicator": "Abuse of Vunerability",
+            "question": [
+                "Do they speak the local language?", 
+                "Do they belong to a minority?",
+                "Are people living with their employer?"
+            ]
+        },
+        {
+            "indicator": "Isolation",
+            "question": [
+                "Are people living and working in a remote area without access to basic services?",
+                "Are people being confiscated means of communication and/or denied contact with other people/their family?",
+                "Do you have the feeling that people are working in informal buildings?"
+            ]
+        },
+        {
+            "indicator": "Excessive Overtime",
+            "question": [
+                "Excessive overtime",
+                "Are people forced to work overtime without compensation?",
+                "Are they allowed to take days off?"
+            ]
+        },
+        {
+            "indicator": "Withholding of wages",
+            "question": [
+                "Are wages systematically not being paid out?",
+                "Are requests for salary payment continuously being denied?",
+                "Is someone not leaving their work in the hope to get their wages paid?"
+            ]
+        },
+        {
+            "indicator": "Abusive working and living conditions",
+            "question": [
+                "Are they living in an overcrowded house?",
+                "Are their work hazardous?",
+                "Do they have low or no salary?",
+                "Do they have a signed contract?",
+                "Do they have social protection (contract, social insurance, etc.)?",
+                "Do they have bad working conditions?",
+                "Are they receiving a fair wage?"
+            ]
+        },
+        {
+            "indicator":"Deception",
+            "question": [
+                "Are people doing other activities than what they had been recruited for? "
+            ]
+        },
+        {
+            "indicator":"Restriction of movement",
+            "question": [
+                "Is access to informal buildings being permanently controlled, either through cameras or personnel?"
+            ]
+        },
+        {
+            "indicator": "Physical and sexual violence",
+            "question": [
+                "Have you observed or have reasons to suspect someone is a victim of physical or sexual violence?"
+            ]
+        },
+        {
+            "indicator": "Intimidation and threats",
+            "question": [
+                "Have you observed situations where someone complained or wanted to leave and got serious threats of violence, loss of wages, denunciations to the authorities or similar, against themselves or their family?"
+            ]
+        },
+        {
+            "indicator": "Retention of identity documents",
+            "question": [
+                "Do you know whether they have a passport/a residence permit?",
+                "Do you know that someone has been taken away their documents by their employer and cannot get them back?"
+
+            ]
+        },
+        {
+            "indicator": "Debt bondage",
+            "question" : [
+                "Do you have any indication that work is being performed in order to repay a debt/to cover costs incurred for recruitment or transportation from the worker’s place of origin?"
+            ]
+        }
+    ]
+    }
+]
